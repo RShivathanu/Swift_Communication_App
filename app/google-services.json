@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "670073085311",
+    "project_id": "swiftcom-c9cf7",
+    "storage_bucket": "swiftcom-c9cf7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670073085311:android:c39cf6eb3fe86ee2698e4a",
+        "android_client_info": {
+          "package_name": "com.example.swiftcom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "670073085311-4ho4fi85scd6naqctkoff83io5ra7i9k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7kKjocVuOLLAeB9FNxGcvPeVsq7UvIc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "670073085311-4ho4fi85scd6naqctkoff83io5ra7i9k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
